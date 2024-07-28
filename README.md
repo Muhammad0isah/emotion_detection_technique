@@ -2,6 +2,7 @@
 
 Multi-class sentiment analysis problem to classify texts into three emotion categories: joy, anger, and surprise. A project to go through different text classification techniques. This includes, LSTM neural networks and transfer learning using BERT (tensorflow keras).
 
+
 # Datasets
 *SemEval 2014 Restaurant dataset
 
